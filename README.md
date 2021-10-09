@@ -1,3 +1,4 @@
+根据开源项目对配置文件的使用进行了简单修改
 # fdfs_client.go
 
 fastdfs go client implement
